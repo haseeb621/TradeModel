@@ -1,0 +1,11 @@
+django
+celery
+redis
+requests
+pandas
+numpy
+pandas-ta
+scikit-learn
+tensorflow
+joblib
+djangorestframework
